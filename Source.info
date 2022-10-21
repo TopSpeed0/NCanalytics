@@ -1,0 +1,10 @@
+# Resreche for creating a script that test the perfomance of the ONTAP Cluster Before enabling Analitics.
+
+URL:
+https://community.netapp.com/t5/Microsoft-Virtualization-Discussions/CDOT-CPU-Stats-with-Powershell-invoke-ncsysstat-get-ncperfdata-etc/m-p/114216#M4638
+https://practical-admin.com/blog/cdot-performance-monitoring-using-powershell/
+
+Credit on the Script 
+asulliva from netapp comunity https://community.netapp.com/t5/user/viewprofilepage/user-id/8479
+Andrew Sullivan
+https://practical-admin.com/blog/cdot-performance-monitoring-using-powershell/
